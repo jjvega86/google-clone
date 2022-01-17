@@ -1,4 +1,4 @@
-# craigslist-clone
+# google-clone
 
 # NOTE - convert to public when completed
 
